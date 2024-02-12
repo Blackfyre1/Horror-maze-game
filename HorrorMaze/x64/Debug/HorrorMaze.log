@@ -1,0 +1,35 @@
+﻿  main.cpp
+D:\HorrorMaze\HorrorMaze\main.cpp(19,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\HorrorMaze\HorrorMaze\main.cpp(20,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\HorrorMaze\HorrorMaze\main.cpp(139,78): warning C4267: 'argument': conversion from 'size_t' to 'ALsizei', possible loss of data
+D:\HorrorMaze\HorrorMaze\main.cpp(312,24): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\HorrorMaze\HorrorMaze\main.cpp(313,26): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\HorrorMaze\HorrorMaze\main.cpp(372,54): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\HorrorMaze\HorrorMaze\main.cpp(373,54): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\HorrorMaze\HorrorMaze\main.cpp(377,60): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\HorrorMaze\HorrorMaze\main.cpp(378,60): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\HorrorMaze\HorrorMaze\main.cpp(382,59): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\HorrorMaze\HorrorMaze\main.cpp(383,59): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\HorrorMaze\HorrorMaze\main.cpp(387,59): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\HorrorMaze\HorrorMaze\main.cpp(388,59): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\HorrorMaze\HorrorMaze\main.cpp(463,28): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+D:\HorrorMaze\HorrorMaze\main.cpp(463,19): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+D:\HorrorMaze\HorrorMaze\main.cpp(492,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\HorrorMaze\HorrorMaze\main.cpp(500,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\HorrorMaze\HorrorMaze\main.cpp(507,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\HorrorMaze\HorrorMaze\main.cpp(524,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\HorrorMaze\HorrorMaze\main.cpp(539,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\HorrorMaze\HorrorMaze\main.cpp(554,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\HorrorMaze\HorrorMaze\main.cpp(570,50): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\HorrorMaze\HorrorMaze\main.cpp(570,36): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\HorrorMaze\HorrorMaze\main.cpp(575,49): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\HorrorMaze\HorrorMaze\main.cpp(575,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\HorrorMaze\HorrorMaze\main.cpp(596,21): warning C4305: '+=': truncation from 'double' to 'float'
+D:\HorrorMaze\HorrorMaze\main.cpp(620,35): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\HorrorMaze\HorrorMaze\main.cpp(626,34): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\HorrorMaze\HorrorMaze\main.cpp(632,35): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\HorrorMaze\HorrorMaze\main.cpp(642,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\HorrorMaze\HorrorMaze\main.cpp(643,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\HorrorMaze\HorrorMaze\main.cpp(652,45): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\HorrorMaze\HorrorMaze\main.cpp(676,39): warning C4305: 'argument': truncation from 'double' to 'float'
+  HorrorMaze.vcxproj -> D:\HorrorMaze\x64\Debug\HorrorMaze.exe
